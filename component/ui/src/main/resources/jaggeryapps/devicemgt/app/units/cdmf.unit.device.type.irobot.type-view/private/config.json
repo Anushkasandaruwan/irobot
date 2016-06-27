@@ -1,0 +1,8 @@
+
+{
+  "deviceType": {
+    "label": "irobot",
+    "category": "virtual",
+    "downloadAgentUri": "irobot/device/download"
+  }
+}
